@@ -1,0 +1,40 @@
+body{
+    background-image: url(../images/background.jpg);
+}
+
+#main{
+    margin-top: 180px;
+    margin-left: 540px;
+    margin-right: 540px;
+}
+
+#text{
+    color: cyan;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 19px;
+    margin-left: 125px;
+    text-align: center;    
+}
+
+#box{
+    border: black  solid;
+    border-radius: 20px;
+    text-align: center;
+    background-color: rgb(19, 19, 19);
+    color: white;
+}
+
+textarea{
+    background-color: black;
+    color: white;
+    border-radius: 10px;
+    border: white solid 1px;
+}
+
+#Character_Name{
+    background-color: black;
+    color: white;
+    border-radius: 10px;
+    width: 320px;
+    border: white solid 1px;
+}
